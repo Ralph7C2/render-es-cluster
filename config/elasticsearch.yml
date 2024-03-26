@@ -1,3 +1,5 @@
-cluster.name: "elastic"
+cluster.name: "elastic736"
+node.roles: [ master, data ]
+
 # bind to all network interfaces
 network.host: 0.0.0.0
